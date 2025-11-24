@@ -1,6 +1,7 @@
 # Modelagem_de_Banco_de_Dados
 
 💾 Repositório: Banco de Dados
+
 📚 Sobre o Projeto
 Este diretório faz parte do repositório é dedicado aos trabalhos, exercícios e projetos práticos da disciplina de Banco de Dados.
 
